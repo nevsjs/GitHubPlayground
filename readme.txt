@@ -3,4 +3,4 @@ GitHubPlayground
 
 # A Project for testing GitHub features
 
-Wat test
+Class1.Foo4() added

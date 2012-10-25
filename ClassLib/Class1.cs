@@ -18,5 +18,9 @@ namespace ClassLib
         public void Foo3()
         {
         }
+
+        public void Foo4()
+        {
+        }
     }
 }
