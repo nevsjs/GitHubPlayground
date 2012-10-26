@@ -12,6 +12,7 @@ namespace ConsoleApp
         {
             Class1 c1 = new Class1();
             c1.Foo();
+            c1.Foo3();
 
             Class1 c2 = new Class1();
             c2.Foo();
