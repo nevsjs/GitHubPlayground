@@ -17,6 +17,7 @@ namespace ConsoleApp
             Class1 c2 = new Class1();
             c2.Foo();
             c2.Foo2();
+            c2.Foo3();
         }
     }
 }
